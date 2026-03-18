@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: lcvillagertycoon
+Specification-Vendor: YourName
+Specification-Version: 1
+Implementation-Title: lcvillagertycoon
+Implementation-Version: 1.0.0
+Implementation-Vendor: YourName
+
